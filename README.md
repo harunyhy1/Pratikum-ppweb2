@@ -1,5 +1,5 @@
 # Pemrograman Web 2
 ## Repositori Praktikum Mata Kuliah Pemrograman Web 2
-- Nama : Muhammad Shidqi Hanif Firdaus
-- Nim : 0110224115
+- Nama : HARUN YAHYA
+- Nim : 0110224032
 - Romberl : TI06
